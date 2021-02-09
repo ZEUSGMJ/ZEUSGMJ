@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/-Git-gray?logo=git&style=for-the-badge&color=F05032&logoColor=white" alt="Git" width="64px">
 </a>
 <a href="https://code.visualstudio.com/">
-<img src="https://img.shields.io/badge/-Code%20Editor-gray?logo=visual%20studio%20code&style=for-the-badge&color=007ACC" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-gray?logo=visual%20studio%20code&style=for-the-badge&color=007ACC" alt="Visual Studio Code">
 </a>
 <a href="https://www.mongodb.com/">
 <img src="https://img.shields.io/badge/-MongoDB-gray?logo=mongodb&style=for-the-badge&logoColor=white&color=47A248" alt="Visual Studio Code">
