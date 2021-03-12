@@ -1,5 +1,5 @@
 <a href="https://github.com/ZEUSGMJ">
-    <img src="https://imgur.com/Y5Gvoxq.jpg" alt="ZEUSGMJ">
+    <img src="https://imgur.com/OoRsS5R.png" alt="ZEUSGMJ">
 </a>
 
 ## About
@@ -56,7 +56,7 @@
 </a>
 
 ### :bar_chart:Some Stats
-<img src="https://zeusgmj-github-readme.vercel.app/api?username=ZEUSGMJ&show_icons=true&theme=calm&bg_color=30,0FA5E5,43E8AF&title_color=D6455C&text_color=2F4858&icon_color=D6455C&hide_border=false&count_private=true" alt="Github Stats"></br>
+<img src="https://zeusgmj-github-readme.vercel.app/api?username=ZEUSGMJ&show_icons=true&theme=calm&bg_color=30,0FA5E5,43E8AF&title_color=D6455C&text_color=2F4858&icon_color=D6455C&hide_border=false&count_private=true" alt="Github Stats" class="github-stats"></br>
 
 ### :page_with_curl:Contact
 [![twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge&color=blue "Twitter")](https://twitter.com/ZEUSGMJ) [![Discord](https://img.shields.io/badge/-Discord-%23909CFC?logo=discord&style=for-the-badge "ZEUSGMJ")](https://discord.com/users/438054607571386378) [![Github](https://img.shields.io/github/followers/ZEUSGMJ?logo=github&style=for-the-badge "Github")](https://github.com/ZEUSGMJ) [![Instagram](https://img.shields.io/badge/-Instagram-blue?logo=instagram&style=for-the-badge&color=9cf "Instagram")](https://www.instagram.com/zeusgmj/)
