@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on maintaining my Discord bot [Project Blue](https://github.com/ZEUSGMJ/Project-Blue "Project Blue").
 
 #### :musical_note: Spotify
-<a href="https://open.spotify.com/user/wvckgj74wvfnyyzl8vtg6pwrr">
+<a href="https://open.spotify.com/user/wvckgj74wvfnyyzl8vtg6pwrr" target="_blank" referrerpolicy="no-referrer">
     <img src="https://zeusgmj.vercel.app/api/spotify" alt="ZEUSGMJ is currently listening to" width="550">
 </a>
 
