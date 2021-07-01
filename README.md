@@ -1,5 +1,5 @@
 <a href="https://github.com/ZEUSGMJ">
-    <img src="https://imgur.com/OoRsS5R.png" alt="ZEUSGMJ">
+    <img src="https://i.imgur.com/1SFbMy8.gif" alt="ZEUSGMJ">
 </a>
 
 ## About
