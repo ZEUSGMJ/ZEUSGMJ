@@ -9,7 +9,7 @@
 
 #### :musical_note: Spotify
 <a href="https://open.spotify.com/user/wvckgj74wvfnyyzl8vtg6pwrr" target="_blank" referrerpolicy="no-referrer">
-    <img src="https://zeusgmj-spotify.vercel.app/api/spotify" alt="ZEUSGMJ is currently listening to" width="550">
+    <img src="https://zeusgmj-spotify.vercel.app/api/spotify" alt="ZEUSGMJ is currently listening to" width="640">
 </a>
 
 ### :bookmark_tabs:Languages
