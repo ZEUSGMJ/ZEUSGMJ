@@ -13,36 +13,24 @@
 </a>
 
 ### :bookmark_tabs:Languages
-<code>
-<a href="https://www.javascript.com/">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="28px"/>
+<a href="https://www.javascript.com/" target="_blank" referrerpolicy="no-referrer">
+    <img src="/assets/javascript.svg" alt="Javascript" width="42px"/>
 </a>
-</code>
-<code>
-<a href="https://www.html.com/">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="28px"/>
+<a href="https://www.html.com/" target="_blank" referrerpolicy="no-referrer">
+    <img src="/assets/html-5.svg" alt="HTML" width="42px"/>
 </a>
-</code>
-<code>
-<a href="https://www.w3schools.com/css/default.asp">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="28px"/>
+<a href="https://www.w3schools.com/css/default.asp" target="_blank" referrerpolicy="no-referrer">
+    <img src="/assets/css.svg" alt="CSS" width="42px"/>
 </a>
-</code>
-<code>
-<a href="https://nodejs.org/en/">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" width="28px"/>
+<a href="https://nodejs.org/en/" target="_blank" referrerpolicy="no-referrer">
+    <img src="/assets/nodejs.svg" alt="Nodejs" width="42px"/>
 </a>
-</code>
-<code>
-<a href="https://www.markdownguide.org/">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" width="28px"/>
+<a href="https://www.markdownguide.org/" target="_blank" referrerpolicy="no-referrer">
+    <img src="/assets/markdown.svg" alt="Markdown" width="42px"/>
 </a>
-</code>
-<code>
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="28px"/>
+<a href="https://www.python.org/" target="_blank" referrerpolicy="no-referrer">
+    <img src="/assets/python.svg" alt="Python" width="42px"/>
 </a>
-</code>
 
 <br/>
 
@@ -58,7 +46,10 @@
 </a>
 
 ### :bar_chart:Some Stats
-<img src="https://zeusgmj-github-readme.vercel.app/api?username=ZEUSGMJ&show_icons=true&theme=calm&bg_color=30,0FA5E5,43E8AF&title_color=D6455C&text_color=2F4858&icon_color=D6455C&hide_border=false&count_private=true" alt="Github Stats" class="github-stats"></br>
+<img src="https://zeusgmj-github-readme.vercel.app/api?username=ZEUSGMJ&show_icons=true&theme=dark&bg_color=121212&title_color=00C896&text_color=FAF8FF&icon_color=00C896&hide_border=true&count_private=true&border_radius=12" alt="Github Stats" class="github-stats"></br>
 
 ### :page_with_curl:Contact
-[![twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge&color=blue "Twitter")](https://twitter.com/ZEUSGMJ) [![Discord](https://img.shields.io/badge/-Discord-%23909CFC?logo=discord&style=for-the-badge "ZEUSGMJ")](https://discord.com/users/438054607571386378) [![Github](https://img.shields.io/github/followers/ZEUSGMJ?logo=github&style=for-the-badge "Github")](https://github.com/ZEUSGMJ) [![Instagram](https://img.shields.io/badge/-Instagram-blue?logo=instagram&style=for-the-badge&color=9cf "Instagram")](https://www.instagram.com/zeusgmj/)
+[![twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge&color=blue "Twitter")](https://twitter.com/ZEUSGMJ)
+[![Discord](https://img.shields.io/badge/-Discord-%23909CFC?logo=discord&style=for-the-badge "ZEUSGMJ")](https://discord.com/users/438054607571386378)
+[![Github](https://img.shields.io/github/followers/ZEUSGMJ?logo=github&style=for-the-badge "Github")](https://github.com/ZEUSGMJ)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?logo=instagram&style=for-the-badge&color=9cf "Instagram")](https://www.instagram.com/zeusgmj/)
