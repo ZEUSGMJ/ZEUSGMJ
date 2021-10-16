@@ -47,7 +47,7 @@
 
 ### :bar_chart:Some Stats
 <img src="https://zeusgmj-github-readme.vercel.app/api?username=ZEUSGMJ&show_icons=true&theme=dark&bg_color=121212&title_color=00C896&text_color=FAF8FF&icon_color=00C896&hide_border=true&count_private=true&border_radius=12" alt="Github Stats" class="github-stats">
-<img src="https://readme-activity-graph-zeusgmj.herokuapp.com/graph?username=ZEUSGMJ&hide_border=true&bg_color=171717&color=EDEDED&line=00C896&point=EDEDED&custom_title=ZEUSGMJ%27s%20Github%20Contributions" alt="Github Contribution Graph" class="github-graph" style="border-radius: 12px;">
+<img src="https://readme-activity-graph-zeusgmj.herokuapp.com/graph?username=ZEUSGMJ&hide_border=true&bg_color=121212&color=EDEDED&line=00C896&point=EDEDED&custom_title=ZEUSGMJ%27s%20Github%20Contributions" alt="Github Contribution Graph" class="github-graph" style="border-radius: 12px;">
 </br>
 
 ### :page_with_curl:Contact
