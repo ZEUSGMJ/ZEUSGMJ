@@ -46,10 +46,9 @@
 </a>
 
 ### :bar_chart:Some Stats
-<img src="https://zeusgmj-github-readme.vercel.app/api?username=ZEUSGMJ&show_icons=true&theme=dark&bg_color=121212&title_color=00C896&text_color=FAF8FF&icon_color=00C896&hide_border=true&count_private=true&border_radius=12" alt="Github Stats" class="github-stats"></br>
+<img src="https://zeusgmj-github-readme.vercel.app/api?username=ZEUSGMJ&show_icons=true&theme=dark&bg_color=121212&title_color=00C896&text_color=FAF8FF&icon_color=00C896&hide_border=true&count_private=true&border_radius=12" alt="Github Stats" class="github-stats">
+<img src="https://readme-activity-graph-zeusgmj.herokuapp.com/graph?username=ZEUSGMJ&hide_border=true&bg_color=171717&color=EDEDED&line=00C896&point=EDEDED&custom_title=ZEUSGMJ%27s%20Github%20Contributions" alt="Github Contribution Graph" class="github-graph" style="border-radius: 12px;">
+</br>
 
 ### :page_with_curl:Contact
-[![twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge&color=blue "Twitter")](https://twitter.com/ZEUSGMJ)
-[![Discord](https://img.shields.io/badge/-Discord-%23909CFC?logo=discord&style=for-the-badge "ZEUSGMJ")](https://discord.com/users/438054607571386378)
-[![Github](https://img.shields.io/github/followers/ZEUSGMJ?logo=github&style=for-the-badge "Github")](https://github.com/ZEUSGMJ)
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?logo=instagram&style=for-the-badge&color=9cf "Instagram")](https://www.instagram.com/zeusgmj/)
+[![twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge&color=blue "Twitter")](https://twitter.com/ZEUSGMJ) [![Discord](https://img.shields.io/badge/-Discord-%23909CFC?logo=discord&style=for-the-badge "ZEUSGMJ")](https://discord.com/users/438054607571386378) [![Github](https://img.shields.io/github/followers/ZEUSGMJ?logo=github&style=for-the-badge "Github")](https://github.com/ZEUSGMJ) [![Instagram](https://img.shields.io/badge/-Instagram-blue?logo=instagram&style=for-the-badge&color=9cf "Instagram")](https://www.instagram.com/zeusgmj/)
