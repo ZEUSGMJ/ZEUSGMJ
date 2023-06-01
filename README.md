@@ -5,7 +5,7 @@
 # About
 :wave: Hello there, I'm Jisnu aka `ZEUSGMJ` and I'm from India. I'm an avid Programmer, Hip-Hop genre enthusiast, and undergrad in Mechatronics Engineering. I'm currently working as a Software Developer at Gpi India.
 
-- 🌱 I’m currently learning React and NextJs.
+- 🌱 I’m currently learning React, NextJs, and Astro.
 
 ## :musical_note: Spotify
 <a href="https://open.spotify.com/user/wvckgj74wvfnyyzl8vtg6pwrr" target="_blank" referrerpolicy="no-referrer">
