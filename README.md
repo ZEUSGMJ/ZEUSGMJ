@@ -5,8 +5,6 @@
 # About
 :wave: Hello there, I'm Jisnu, also known as `ZEUSGMJ`, and I'm from India. I'm an avid programmer, a Hip-Hop genre enthusiast, and I'm currently pursuing my M.Eng in Computer Science at Oregon State University. I previously worked at Gpi India as a Software Developer, and I completed my undergraduate degree in B.Tech Mechatronics Engineering at SRM University.
 
-- 🌱 I’m currently learning React, NextJs, and Astro.
-
 ## :musical_note: Spotify
 <a href="https://open.spotify.com/user/wvckgj74wvfnyyzl8vtg6pwrr" target="_blank" referrerpolicy="no-referrer">
     <img src="https://zeusgmj-spotify.vercel.app/api/spotify" alt="ZEUSGMJ is currently listening to" width="640">
