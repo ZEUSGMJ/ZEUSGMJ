@@ -3,7 +3,7 @@
 </a>
 
 # About
-:wave: Hello there, I'm Jisnu aka `ZEUSGMJ` and I'm from India. I'm an avid Programmer, Hip-Hop genre enthusiast, and undergrad in Mechatronics Engineering. I'm currently working as a Software Developer at Gpi India.
+:wave: Hello there, I'm Jisnu, also known as `ZEUSGMJ`, and I'm from India. I'm an avid programmer, a Hip-Hop genre enthusiast, and I'm currently pursuing my M.Eng in Computer Science at Oregon State University. I previously worked at Gpi India as a Software Developer, and I completed my undergraduate degree in B.Tech Mechatronics Engineering at SRM University.
 
 - 🌱 I’m currently learning React, NextJs, and Astro.
 
