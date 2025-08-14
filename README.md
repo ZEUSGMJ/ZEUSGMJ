@@ -5,11 +5,19 @@ Former Software Developer @ Gpi India • B.Tech in Mechatronics Engineering
 
 ---
 
+## About Me
+I’m a developer who enjoys building tools and applications that solve real-world problems — from intuitive frontends to reliable backend systems.  
+I’m currently exploring modern web frameworks, and improving network infrastructure skills.
+
+---
+
 ## Skills
-**Languages & Frameworks:** JavaScript, TypeScript, AngularJS, React, Next.js, Svelte, C#, .NET, C, C++, Python, HTML5, CSS/SCSS, Bash, Linux  
-**Databases:** MySQL, MongoDB  
-**Tools & Platforms:** Docker, Git, Azure DevOps, Figma, Postman, NetBox
-**Key Areas:** Full-Stack Development, API Integration, UI/UX Enhancements, Network Infrastructure
+```yaml
+Languages & Frameworks : JavaScript, TypeScript, AngularJS, React, Next.js, Svelte, C#, .NET, C, C++, Python, HTML5, CSS/SCSS, Bash, Linux
+Databases              : MySQL, MongoDB
+Tools & Platforms      : Docker, Git, Azure DevOps, Figma, Postman, NetBox
+Key Areas              : Full-Stack Development, API Integration, UI/UX Enhancements, Network Infrastructure
+```
 
 ---
 
