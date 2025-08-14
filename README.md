@@ -19,7 +19,7 @@ Former Software Developer @ Gpi India • B.Tech in Mechatronics Engineering
 ---
 
 ## 🎵 Now Playing
-Here’s what I am / was listening to:
+Here’s what I am / was listening to:  
 <a href="https://open.spotify.com/user/wvckgj74wvfnyyzl8vtg6pwrr" target="_blank" referrerpolicy="no-referrer">
     <img src="https://zeusgmj-spotify.vercel.app/api/spotify" alt="Currently listening on Spotify" width="480">
 </a>
